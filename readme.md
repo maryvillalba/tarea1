@@ -1,11 +1,13 @@
 1.Que es un servidor?
+
 Programa capaz de atender solicitudes y enviar respuestas
 
-2. que es un protocolo en informatica?
+2.Que es un protocolo en informatica?
+
 Protocolo es un conjunto de reglas que permite la comunicacion entre
 dos o mas  entidades para transmitir informacion  
 
-3. Que es un servidor web
+3.Que es un servidor web
 Servidor que utiliza el protocolo http para enviar y recibir solictudes/paquetes
 
 4.Que es un cliente web?
